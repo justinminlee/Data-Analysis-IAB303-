@@ -3,7 +3,7 @@ This is the data analysis assessment from IAB303
 
 
 Assessment detailes:
-```Bash
+
 Question 1 is focused on structured data and will require numerical analysis techniques
 Question 2 is focused on unstructured or semi-structured data and will require text analysis techniques.
 
@@ -30,4 +30,4 @@ Explain clearly why the insights are significant for the question and in turn fo
 Point out any shortcomings in the insights and whether they relate to issues with the analysis. .
 Identify ways that the analysis may be improved to provide better quality insights
 (Note that you can reflect on how something might be improved even if you don't have the technical ability to accomplish the improvement yourself).
-```
+
